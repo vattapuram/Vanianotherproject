@@ -1,0 +1,9 @@
+package com.vani.another;
+
+public class Another {
+
+	public static void main(String[] args) {
+System.out.println("Hello Everyone");
+	}
+
+}
